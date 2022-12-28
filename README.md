@@ -1,4 +1,6 @@
-# Hi, this is heopaka.
+<div align="center">
+  <h1>Hi, this is heopaka</h1>
+</div>
 <div align="center">
 <img src=images/코딩파카.jpg width=500 height=500>
 <div>
